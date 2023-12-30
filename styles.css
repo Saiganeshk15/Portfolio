@@ -1,0 +1,61 @@
+header div {
+    background: rgb(15, 15, 145);
+    color: white;
+    background-color: rgb(44, 44, 112);
+}
+
+header button {
+    color: blue;
+}
+
+header span {
+    color: red;
+}
+
+body {
+    background-color: rgb(0, 0, 33);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+#element {
+    color: purple;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+}
+
+.purple {
+    color: purple;
+}
+
+p {
+    font-size: 1rem;
+    color: white;
+}
+
+.black {
+    color: black;
+}
+
+.hr {
+    border: 0;
+    background: #9c97f1;
+    height: 1.2px;
+    margin: 40px 84px;
+}
+
+#footer {
+    display: flex;
+    background-color: whitesmoke;
+    height: 70px;
+}
+
+.button {
+    padding: 12px;
+    background: #1e2167;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
